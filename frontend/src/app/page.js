@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <h1>Welcome to My Blog</h1>
       <p>Explore articles, thoughts, and tutorials!</p>
-      <Link href="/posts">View All Posts</Link>
+      <Link href="/posts">View All blog Posts</Link>
     </div>
   );
 }
