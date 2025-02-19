@@ -48,6 +48,8 @@ app.get('/posts', async (req, res) => {
   }
 });
 
+routes.get('/post',)
+
 // Create a new post
 app.post('/posts', async (req, res) => {
   const { title, content } = req.body;
